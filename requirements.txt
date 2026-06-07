@@ -2,3 +2,4 @@ streamlit
 snaptrade-python-sdk
 tastytrade
 pandas
+plotly
