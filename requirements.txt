@@ -1,4 +1,4 @@
 streamlit
-snaptrade-client
+snaptrade-python-sdk
 tastytrade
 pandas
